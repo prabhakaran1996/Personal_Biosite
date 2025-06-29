@@ -1,0 +1,25 @@
+{
+  "name": "personal_biosite",
+  "version": "1.0.0",
+  "description": "Personal Biosite",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "prettier": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabhakaran1996/Personal_Biosite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prabhakaran1996/Personal_Biosite/issues"
+  },
+  "homepage": "https://github.com/prabhakaran1996/Personal_Biosite#readme",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
